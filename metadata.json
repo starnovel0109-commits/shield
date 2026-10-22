@@ -1,0 +1,6 @@
+{
+  "name": "UPI Shield AI — Intelligent UPI Transaction Fraud Detection System",
+  "description": "Intelligent machine learning system designed to detect fraudulent UPI transactions, evaluate real-time transaction risk, analyze behavioural patterns, and visualize model metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
